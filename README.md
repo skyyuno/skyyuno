@@ -8,8 +8,6 @@ Checkout my [website](https://yuno.escacs.net/), [Hugging Face](https://huggingf
 
 - **[Escacs CLI](https://escacs.vercel.app)** — An open-source AI coding agent focused on efficient context usage, deliberate exploration, deterministic verification, and reliable execution
 - **[DosLenguas](https://github.com/escacs/doslenguas)** — A platform for constructed languages (conlangs)
-- **[LevelUp](https://github.com/escacs/levelup-git)** — A gamified self-improvement platform with an AI coach
-- **[Elara](https://github.com/escacs/elara-git)** — A reflective AI psychology & research assistant
 
 ### Models
 
@@ -17,4 +15,4 @@ Checkout my [website](https://yuno.escacs.net/), [Hugging Face](https://huggingf
 
 ### Everything Else
 
-- **[Aboutme](https://yuno.escacs.net/)** — Personal website and portfolio
+- **[BO1-RS](https://github.com/skyyuno/BO1-RS)** — Black Ops 1 Zombies rebuilt in Rust (Bevy + wgpu): an unofficial, non-commercial, offline single-player reimplementation
