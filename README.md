@@ -16,11 +16,3 @@ Checkout my [website](https://yuno.escacs.net/), [Hugging Face](https://huggingf
 ### Projects
 
 - **BO1-RS** — Black Ops 1 Zombies rebuilt in Rust (Bevy + wgpu): an unofficial, non-commercial, offline single-player reimplementation
-
-### Everything Else
-
-- **[Aboutme](https://yuno.escacs.net/)** — Personal website and portfolio
-
-## GitHub Activity
-
-![Commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skyyuno&theme=github-compact)
