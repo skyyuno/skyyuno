@@ -6,7 +6,7 @@ Checkout my [website](https://yuno.escacs.net/), [Hugging Face](https://huggingf
 
 ### Products
 
-- **[Escacs CLI](https://escacs.vercel.app)** — An open-source AI coding agent focused on efficient context usage, deliberate exploration, deterministic verification, and reliable execution
+- **Escacs CLI** (in development) — An open-source AI coding agent focused on efficient context usage, deliberate exploration, deterministic verification, and reliable execution
 - **[DosLenguas](https://github.com/escacs/doslenguas)** — A platform for constructed languages (conlangs)
 
 ### Models
