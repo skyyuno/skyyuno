@@ -8,11 +8,8 @@ Checkout my [website](https://yuno.escacs.net/), [Hugging Face](https://huggingf
 
 - **Escacs CLI** (in development) — An open-source AI coding agent focused on efficient context usage, deliberate exploration, deterministic verification, and reliable execution
 - **[DosLenguas](https://github.com/escacs/doslenguas)** — A platform for constructed languages (conlangs)
+- **BO1-RS** — Black Ops 1 Zombies rebuilt in Rust (Bevy + wgpu): an unofficial, non-commercial, offline single-player reimplementation
 
 ### Models
 
-- **[Qwenseer-2B](https://huggingface.co/skyyuno)** — A fine-tuned Qwen model focused on deliberate procedural reasoning
-
-### Projects
-
-- **BO1-RS** — Black Ops 1 Zombies rebuilt in Rust (Bevy + wgpu): an unofficial, non-commercial, offline single-player reimplementation
+- **[Qwenseer-2B](https://huggingface.co/skyyuno)** — A fine-tuned Qwen model focused on deliberate procedural reasoning.
