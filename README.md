@@ -6,7 +6,7 @@ Checkout my [website](https://yuno.escacs.net/), [Hugging Face](https://huggingf
 
 ### Products
 
-- **Escacs CLI** (in development) — An open-source AI coding agent focused on efficient context usage, deliberate exploration, deterministic verification, and reliable execution
+- **EscacsCode** (in development) — An open-source AI coding agent focused on efficient context usage, deliberate exploration, deterministic verification, and reliable execution
 - **[DosLenguas](https://github.com/escacs/doslenguas)** — A platform for constructed languages (conlangs)
 - **BO1-RS** — Black Ops 1 Zombies rebuilt in Rust (Bevy + wgpu): an unofficial, non-commercial, offline single-player reimplementation
 
