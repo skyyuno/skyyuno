@@ -12,3 +12,5 @@ Checkout my [website](https://yuno.escacs.net/), [Hugging Face](https://huggingf
 ### Models
 
 - **[Qwenseer-2B](https://huggingface.co/skyyuno)** — A fine-tuned Qwen model focused on deliberate procedural reasoning.
+- **CMTM** — LM (Rotor) Testing generalization learning abilities at low parameter counts
+
